@@ -1,2 +1,2 @@
 #!/bin/bash
-cpp -o $CFILE.i c.c
+cpp -o 0-main.i main.c
