@@ -1,2 +1,2 @@
 #!/bin/bash
-cpp -o CFILE=0-main.c;./0-preprocessor where main.c contains a main function printing on the standard output
+gcc -E $CFILE -o c
